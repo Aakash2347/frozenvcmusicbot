@@ -18,10 +18,6 @@
 ## 🚀 Features
 
 - 🎧 Play music in Telegram VC groups.
-- 💥 Fully open source and free.
-- ☁️ Can run easily on **Render**, **Koyeb**, or your VPS.
-- 🌱 Easy to set up with one-click deploy buttons.
-- ❄️ Uses custom FrozenGram fork for enhanced stability.
 
 ---
 
@@ -51,7 +47,6 @@
 
 
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [frzoen music](https://t.me/vcmusiclubot)**
 
 
 
@@ -119,11 +114,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/Frozensupport1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+ZxL2aW83iddlMGM1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/Frozensupport1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+ZxL2aW83iddlMGM1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Frozen](https://github.com/prashantsahlot) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Frozensupport1)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Frozen](https://github.com/prashantsahlot) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/+ZxL2aW83iddlMGM1)_</b>
