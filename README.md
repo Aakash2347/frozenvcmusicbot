@@ -121,4 +121,4 @@
 <a href="https://t.me/+ZxL2aW83iddlMGM1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Frozen](https://github.com/prashantsahlot) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/+ZxL2aW83iddlMGM1)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/+ZxL2aW83iddlMGM1)_</b>
